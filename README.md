@@ -201,14 +201,6 @@ and run all cells.
 
 ---
 
-## Author
-
-**Aryan Roy**
-
-GitHub: https://github.com/YOUR_USERNAME
-
----
-
 ## License
 
 This project is intended for educational and research purposes.
